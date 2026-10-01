@@ -1,0 +1,158 @@
+[
+  {
+    "slug": "swedish-connection",
+    "id": "tt28793125",
+    "data": {
+      "i": {
+        "height": 1056,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjc1NjBjOTQtNzQwNy00OWEwLTk0ZDEtMWQ1YTM3NzE4OTQ1XkEyXkFqcGc@._V1_.jpg",
+        "width": 716
+      },
+      "id": "tt28793125",
+      "l": "The Swedish Connection",
+      "q": "feature",
+      "qid": "movie",
+      "rank": 7699,
+      "s": "Henrik Dorsin, Sissela Benn",
+      "tl": "2026",
+      "y": 2026
+    }
+  },
+  {
+    "slug": "synden",
+    "id": "tt33501959",
+    "data": {
+      "i": {
+        "height": 630,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWU4ODljYjMtYTU2ZS00ZWNhLWIwMzktNTE4YjZmMWNhY2I4XkEyXkFqcGc@._V1_.jpg",
+        "width": 450
+      },
+      "id": "tt33501959",
+      "l": "Land of Sin",
+      "q": "TV series",
+      "qid": "tvSeries",
+      "rank": 13203,
+      "s": "Krista Kosonen, Mohammed Nour Oklah",
+      "tl": "2026 TV Series",
+      "y": 2026,
+      "yr": "2026-2026"
+    }
+  },
+  {
+    "slug": "bonusfamiljen",
+    "id": "tt15742294",
+    "data": {
+      "i": {
+        "height": 1350,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGQ3YjM5MDItN2E1Yy00ZDg1LWFlODEtZGFmYWJkNjVmZTdlXkEyXkFqcGc@._V1_.jpg",
+        "width": 1080
+      },
+      "id": "tt15742294",
+      "l": "Long Live the Bonus Family",
+      "q": "feature",
+      "qid": "movie",
+      "rank": 115655,
+      "s": "Jerka Johansson, Vera Vitali",
+      "tl": "2022",
+      "y": 2022
+    }
+  },
+  {
+    "slug": "forsvunna",
+    "id": "tt15768302",
+    "data": {
+      "i": {
+        "height": 4814,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzNjMzg2MjEtN2NmZi00Y2JmLWIzYmYtZmVjZjhmN2Q3OTA5XkEyXkFqcGc@._V1_.jpg",
+        "width": 3209
+      },
+      "id": "tt15768302",
+      "l": "Försvunna människor",
+      "q": "TV series",
+      "qid": "tvSeries",
+      "rank": 77996,
+      "s": "Peter Viitanen, Ville Virtanen",
+      "tl": "2022 TV Series",
+      "y": 2022,
+      "yr": "2022-2022"
+    }
+  },
+  {
+    "slug": "beartown",
+    "id": "tt9677638",
+    "data": {
+      "i": {
+        "height": 2100,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNWVjMzJlNjQtNDg3Ny00NzEyLThiOTctMTc3NDVhNGE4NzJkXkEyXkFqcGc@._V1_.jpg",
+        "width": 1400
+      },
+      "id": "tt9677638",
+      "l": "Beartown",
+      "q": "TV series",
+      "qid": "tvSeries",
+      "rank": 36514,
+      "s": "Ulf Stenberg, Miriam Ingrid",
+      "tl": "2020 TV Series",
+      "y": 2020,
+      "yr": "2020-2020"
+    }
+  },
+  {
+    "slug": "goliat",
+    "id": "tt6844052",
+    "data": {
+      "i": {
+        "height": 1080,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTQwZmUzMmEtOTdhOC00N2Y1LWI5MTAtMDMyMjk0ZjNmNjQzXkEyXkFqcGc@._V1_.jpg",
+        "width": 1080
+      },
+      "id": "tt6844052",
+      "l": "Goliath",
+      "q": "feature",
+      "qid": "movie",
+      "rank": 142327,
+      "s": "Sebastian Ljungblad, Joakim Sällquist",
+      "tl": "2018",
+      "y": 2018
+    }
+  },
+  {
+    "slug": "tjuvheder",
+    "id": "tt4153324",
+    "data": {
+      "i": {
+        "height": 11811,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTk4ODA1NjQ5MV5BMl5BanBnXkFtZTgwOTYwMjA4NjE@._V1_.jpg",
+        "width": 8268
+      },
+      "id": "tt4153324",
+      "l": "Drifters",
+      "q": "feature",
+      "qid": "movie",
+      "rank": 251043,
+      "s": "Malin Levanon, Lo Kauppi",
+      "tl": "2015",
+      "y": 2015
+    }
+  },
+  {
+    "slug": "inkognito",
+    "id": "tt2602066",
+    "data": {
+      "i": {
+        "height": 500,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGJjNGQ2ZTktNmZjNS00NjAwLWE0MzEtMzJhNzllOGEzY2E2XkEyXkFqcGc@._V1_.jpg",
+        "width": 350
+      },
+      "id": "tt2602066",
+      "l": "Inkognito",
+      "q": "TV mini-series",
+      "qid": "tvMiniSeries",
+      "rank": 244564,
+      "s": "Per Morberg, Susanne Thorson",
+      "tl": "2013 TV Mini Series",
+      "y": 2013,
+      "yr": "2013-2013"
+    }
+  }
+]

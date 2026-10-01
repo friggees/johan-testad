@@ -1,0 +1,7 @@
+source.html
+research.json
+*.cjs
+*.py
+*.png
+SOURCES.md
+public/assets/*.jpg
